@@ -1,5 +1,7 @@
 three.js
 ========
+[演示效果](https://akirodic.com/p/jellyfish/) &mdash;
+[中文教程](http://www.hewebgl.com/article/getarticle/27) &mdash;
 
 [![NPM package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
