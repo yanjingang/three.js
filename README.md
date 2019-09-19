@@ -1,7 +1,11 @@
 three.js
 ========
-[演示效果](https://akirodic.com/p/jellyfish/) &mdash;
-[中文教程](http://www.hewebgl.com/article/getarticle/27) &mdash;
+[演示](https://akirodic.com/p/jellyfish/) 
+
+[演示合集](https://threejs.org/examples/#webgl_animation_cloth) 
+
+[中文教程](http://www.hewebgl.com/article/getarticle/27)
+
 
 [![NPM package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
